@@ -4,10 +4,6 @@
 ### *Panduan Lengkap Komunikasi Jaringan dengan Python*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Network](https://img.shields.io/badge/Network-Socket-green?style=for-the-badge)
-![TCP](https://img.shields.io/badge/Protocol-TCP-blue?style=for-the-badge)
-![UDP](https://img.shields.io/badge/Protocol-UDP-orange?style=for-the-badge)
-
 **Pelajari dasar-dasar networking dengan implementasi praktis protokol TCP dan UDP!**
 
 </div>
