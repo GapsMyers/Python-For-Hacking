@@ -342,7 +342,5 @@ Setelah menguasai basic:
 ---
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Learning](https://img.shields.io/badge/Status-Learning-success?style=flat)]()
-[![Open Source](https://img.shields.io/badge/Open-Source-orange?style=flat)]()
 
 </div>
